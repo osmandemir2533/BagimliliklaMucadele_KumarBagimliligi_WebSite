@@ -1,6 +1,6 @@
 # Bağımlılıkla Mücadele | Kumar Bağımlılığı Web Site
 
-Bu proje, **Kumar Bağımlılığı** ile mücadele etmeyi amaçlayan bir web sitesi uygulaması içermektedir. Site, kumar bağımlılığı konusunda farkındalık yaratmayı hedefler ve kullanıcıların bu konuda bilgi edinmesini sağlar. Ayrıca, bağımlılıkla mücadele eden bireylere yönelik çeşitli destek kaynaklarına yönlendirmeler sunar.
+Bu proje, **Kumar Bağımlılığı** ile mücadele etmeyi amaçlayan bir web sitesi uygulaması içermektedir. Site, kumar bağımlılığı konusunda farkındalık oluşturmayı hedefler ve kullanıcıların bu konuda bilgi edinmesini sağlar. Ayrıca, bağımlılıkla mücadele eden bireylere yönelik çeşitli destek kaynaklarına yönlendirmeler sunar.
 
 
 ## 🛠️ Kullanılan Teknolojiler
