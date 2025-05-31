@@ -72,9 +72,13 @@ Proje şu an yayında ve erişebilirsiniz. **Ayrıca sürekli olmasada bazen ren
 - [**Kumar Bağımlılığı Web Site**](https://emreodemir.netlify.app/)
 
 
-## İletişim
+---
 
-Bu projede yaptığım çalışmalarla ilgili başka sorularınız veya önerileriniz varsa bana her zaman ulaşabilirsiniz!  
+## 📬 İletişim
 
+Bu projede yaptığım çalışmalarla ilgili başka sorularınız varsa, **Benimle her zaman iletişime geçebilirsiniz**:
 
-[![Email](https://img.icons8.com/ios-filled/50/FF0000/gmail.png)](mailto:osman25dem@gmail.com) &nbsp;&nbsp; [![LinkedIn](https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png)](https://www.linkedin.com/in/osmandemir2533/)
+[![LinkedIn](https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png)](https://www.linkedin.com/in/osmandemir2533/)  &nbsp;&nbsp; 
+[![Website](https://img.icons8.com/ios-filled/50/8e44ad/domain.png)](https://osmandemir2533.github.io/)
+
+---
